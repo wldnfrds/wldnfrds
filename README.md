@@ -12,7 +12,8 @@
 - **Prakerin**:
   Badan Keuangan dan Aset Daerah, 2024
   - Mengisi daftar surat masuk dan surat keluar.
-  Magang di Inovindo Digital Media
+- **Magang**:
+  Inovindo Digital Media
 
 ## Keterampilan
 - Bahasa Pemrograman: HTML, CSS, PHP, Laravel, Laravel Filament
