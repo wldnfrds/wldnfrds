@@ -25,8 +25,6 @@ I focus on developing clean, maintainable, and scalable web applications that so
 
 Email: wildanfirdaus935@gmail.com
 
-WhatsApp: +62 853-2437-8081
-
 LinkedIn: https://linkedin.com/in/wildan-firdaus-60a897335
 
 GitHub: https://github.com/wldnfrds
